@@ -1,6 +1,6 @@
 cask "tiri" do
-  version "0.2.1"
-  sha256 "e9b14bbe758a1e1780fcbb0aa217befa5975f2d79621eb420d6cf17cbfa45a8e"
+  version "0.3.0"
+  sha256 "807971d695c575c4ab31e350be1f5c8af6922d03b82bad146577b49757919f72"
 
   url "https://tiri.build/download/Tiri-#{version}.dmg"
   name "Tiri"
